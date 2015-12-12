@@ -7,7 +7,7 @@ This list is for anyone who is eager to learn JavaScript beyond what the myriad 
 
 These will be categorized into some form of logical order as the list grows.
 
-If you have a cool resource you think ought to be included, PRs are welcome.
+If you have a cool resource you think ought to be included, PRs are welcome - just let me know WHY you think the resource you're submitting is especially awesome.
 
 ## Event Loop
 * [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
