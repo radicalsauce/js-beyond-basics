@@ -13,6 +13,9 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 * [Scopes & Closures (You Don't Know JS)](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
 * [Scope Chains & Closures (Node School)](https://www.github.com/jesstelford/scope-chains-closures)
 
+## Functional Programming & Patterns
+* [Higher-Order Functions (Eloquent JavaScript - Chapter 5)](http://eloquentjavascript.net/05_higher_order.html)
+
 ## Promises
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 
