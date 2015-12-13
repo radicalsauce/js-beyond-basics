@@ -10,8 +10,8 @@ These will be categorized into some form of logical order as the list grows.
 If you have a cool resource you think ought to be included, PRs are welcome - just let me know WHY you think the resource you're submitting is especially awesome.
 
 ## Scopes and Closures
-* [You Don't Know JS - Scopes & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
-* [Node School - Scope Chains & Closures](https://www.github.com/jesstelford/scope-chains-closures)
+* [Scopes & Closures (You Don't Know JS)](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+* [Scope Chains & Closures (Node School)](https://www.github.com/jesstelford/scope-chains-closures)
 
 ## Promises
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
@@ -27,4 +27,7 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 
 ## Communities for Learning More
 * [/r/Javascript](https://www.reddit.com/r/javascript)
+
+## JS Interview Practice
+* [Front-end engineer interview questions](http://selbielabs.com/front-end-engineer-interview-questions/)
 
