@@ -19,6 +19,9 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 * [You Don't Know JS - Scopes & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
 * [Node School - Scope Chains & Closures](https://www.github.com/jesstelford/scope-chains-closures)
 
+## Promises
+* [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
+
 ## Communities for Learning More
 * [/r/Javascript](https://www.reddit.com/r/javascript)
 
