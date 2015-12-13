@@ -9,18 +9,18 @@ These will be categorized into some form of logical order as the list grows.
 
 If you have a cool resource you think ought to be included, PRs are welcome - just let me know WHY you think the resource you're submitting is especially awesome.
 
-## Event Loop
-* [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-
-## ES6
-* [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
-
 ## Scopes and Closures
 * [You Don't Know JS - Scopes & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
 * [Node School - Scope Chains & Closures](https://www.github.com/jesstelford/scope-chains-closures)
 
 ## Promises
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
+
+## Event Loop
+* [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+## ES6
+* [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 
 ## Communities for Learning More
 * [/r/Javascript](https://www.reddit.com/r/javascript)
