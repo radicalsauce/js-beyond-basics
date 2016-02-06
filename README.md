@@ -34,3 +34,6 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 ## JS Interview Practice
 * [Front-end engineer interview questions](http://selbielabs.com/front-end-engineer-interview-questions/)
 
+## Outstanding JS Books
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html)
+
