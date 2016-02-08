@@ -36,4 +36,5 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 
 ## Outstanding JS Books
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html)
+* [Eloquent JavaScript](http://eloquentjavascript.net)
 
