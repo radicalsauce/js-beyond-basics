@@ -28,6 +28,9 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 ## ES6
 * [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 
+## React
+* [Learn Raw React — no JSX, no Flux, no ES6, no Webpack](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack)
+
 ## Communities for Learning More
 * [/r/Javascript](https://www.reddit.com/r/javascript)
 
