@@ -30,6 +30,7 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 
 ## React
 * [Learn Raw React — no JSX, no Flux, no ES6, no Webpack](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack)
+* [React.js Fundamentals](http://courses.reactjsprogram.com/)
 
 ## Communities for Learning More
 * [/r/Javascript](https://www.reddit.com/r/javascript)
