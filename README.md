@@ -11,6 +11,7 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 
 ## The this Keyword
 * [The this Keyword](http://www.quirksmode.org/js/this.html)
+* [This value](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/#this-value)
 
 ## Scopes and Closures
 * [Scopes & Closures (You Don't Know JS)](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
