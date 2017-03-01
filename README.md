@@ -25,6 +25,7 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 
 ## Event Loop
 * [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+* [What is the JavaScript Event Loop?](http://altitudelabs.com/blog/what-is-the-javascript-event-loop)
 
 ## Backbone.js
 * [Developing Backbone.js Applications](https://github.com/addyosmani/backbone-fundamentals)
