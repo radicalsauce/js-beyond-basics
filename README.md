@@ -34,7 +34,7 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 * [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)
 
 ## V8 Runtime
-* [Fast Properties in V8] (https://v8project.blogspot.com/2017/08/fast-properties.html)
+* [Fast Properties in V8](https://v8project.blogspot.com/2017/08/fast-properties.html)
 
 ## React
 * [Learn Raw React — no JSX, no Flux, no ES6, no Webpack](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack)
