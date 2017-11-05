@@ -42,6 +42,9 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 * [React.js Fundamentals](http://courses.reactjsprogram.com/)
 * [Advanced React](https://courses.reacttraining.com/)
 
+## Webpack
+* [Beginner’s guide to Webpack](https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460)
+
 ## Misc
 * [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
 * [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
