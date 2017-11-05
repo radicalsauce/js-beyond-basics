@@ -22,6 +22,7 @@ If you have a cool resource you think ought to be included, PRs are welcome - ju
 
 ## Promises
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
+* [Learn JavaScript Promises by Building a Promise from Scratch](https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
 
 ## Event Loop
 * [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
